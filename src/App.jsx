@@ -66,7 +66,7 @@ function App() {
           </div>
         </div>
         <div>
-          <img src='public\pexels-photo-1233319.webp' alt='' />
+          <img src='pexels-photo-1233319.webp' alt='' />
         </div>
       </div>
       <div className='newProductsContainer'>
@@ -75,13 +75,13 @@ function App() {
         </div>
         <div className='newProducts'>
           <div>
-            <img src='public\pexels-photo-6542761.webp' alt='' />
+            <img src='pexels-photo-6542761.webp' alt='' />
           </div>
           <div>
-            <img src='public\pexels-photo-4846542.webp' alt='' />
+            <img src='pexels-photo-4846542.webp' alt='' />
           </div>
           <div>
-            <img src='public\pexels-photo-6174880.webp' alt='' />
+            <img src='pexels-photo-6174880.webp' alt='' />
           </div>
         </div>
 
@@ -102,11 +102,7 @@ function App() {
         </div>
       </div>
       <div className='menuImgDiv'>
-        <img
-          className='menuImg'
-          src='public\pexels-photo-5638730.webp'
-          alt=''
-        />
+        <img className='menuImg' src='pexels-photo-5638730.webp' alt='' />
         <div className='menuImgTextDiv'>
           <h2 className='menuImgH2'>Lemonade Moments</h2>
           <button className='menuButton'>CHECK OUR MENU</button>
@@ -126,20 +122,12 @@ function App() {
           <button className='fikaButton'>READ MORE</button>
         </div>
         <div>
-          <img
-            className='gridImg1'
-            src='public\pexels-photo-977460.webp'
-            alt=''
-          />
+          <img className='gridImg1' src='pexels-photo-977460.webp' alt='' />
         </div>
       </div>
       <div className='gridDiv'>
         <div>
-          <img
-            className='gridImg1'
-            src='public\pexels-photo-1171521.webp'
-            alt=''
-          />
+          <img className='gridImg1' src='pexels-photo-1171521.webp' alt='' />
         </div>
         <div className='foundationFlex'>
           <h2 className='girdImg1H2'>Our Lemon Farmers</h2>
@@ -165,20 +153,12 @@ function App() {
           <button className='fikaButton'>READ MORE</button>
         </div>
         <div>
-          <img
-            className='gridImg1'
-            src='public\pexels-photo-5709559.webp'
-            alt=''
-          />
+          <img className='gridImg1' src='pexels-photo-5709559.webp' alt='' />
         </div>
       </div>
       <div className='gridDiv'>
         <div>
-          <img
-            className='gridImg1'
-            src='public\pexels-photo-1222271.jpeg'
-            alt=''
-          />
+          <img className='gridImg1' src='pexels-photo-1222271.jpeg' alt='' />
         </div>
         <div className='foundationFlex'>
           <h2 className='girdImg1H2'>Stir Your Future</h2>
