@@ -217,7 +217,7 @@
 }
 .footerDiv div {
   row-gap: 24px;
-  fontsize: 24px;
+  font-size: 24px;
 }
 .footerDiv > div > div {
   font-size: 26px;
